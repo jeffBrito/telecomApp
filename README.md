@@ -1,6 +1,6 @@
-# app
+# Projeto de App para serviço de Telecom
 
-A new Flutter project.
+Sistema Administrativo para empresa de Telecom.
 
 ## Getting Started
 
